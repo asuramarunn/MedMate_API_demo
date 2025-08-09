@@ -1,0 +1,74 @@
+# List of medical tests and associated diseases
+
+Complete Blood Count (CBC):
+- Anemia
+- Infection
+- Leukemia
+
+C-Reactive Protein (CRP):
+- Inflammation
+- Infection
+- Autoimmune diseases
+
+Blood Culture:
+- Sepsis
+- Bacterial infections
+
+Chest X-ray:
+- Pneumonia
+- Tuberculosis
+- Lung cancer
+
+Sputum Gram Stain:
+- Bacterial pneumonia
+- Tuberculosis
+
+ECG (Electrocardiogram):
+- Acute myocardial infarction
+- Arrhythmia
+- Myocarditis
+
+Liver Function Test (LFT):
+- Hepatitis
+- Cirrhosis
+- Liver cancer
+
+D-Dimer:
+- Pulmonary embolism
+- Deep vein thrombosis
+
+Troponin I:
+- Acute myocardial infarction
+- Myocarditis
+
+Urinalysis:
+- Urinary tract infection
+- Kidney disease
+- Diabetes
+
+---
+
+# Diseases and their commonly used diagnostic tests
+
+Community-acquired pneumonia:
+- Complete Blood Count (CBC)
+- C-Reactive Protein (CRP)
+- Blood Culture
+- Chest X-ray
+- Sputum Gram Stain
+- Urinalysis
+
+Acute myocardial infarction:
+- ECG
+- Troponin I
+
+Pulmonary embolism:
+- D-Dimer
+- Chest X-ray
+
+Sepsis:
+- Complete Blood Count (CBC)
+- C-Reactive Protein (CRP)
+- Blood Culture
+- Liver Function Test (LFT)
+- Urinalysis

@@ -1,0 +1,102 @@
+# Disease and associated lab tests with typical indicator values/ranges for diagnosis
+
+Community-acquired pneumonia:
+- Complete Blood Count (CBC):
+    - WBC: Elevated (>10,000 /µL)
+    - Neutrophils: Increased percentage
+- C-Reactive Protein (CRP):
+    - CRP: Elevated (>10 mg/L)
+- Chest X-ray:
+    - Finding: Infiltrates or consolidation
+- Sputum Gram Stain:
+    - Presence of pathogens (e.g. Streptococcus pneumoniae)
+- Blood Culture:
+    - Positive for causative bacteria
+
+Acute myocardial infarction:
+- Troponin I:
+    - Elevated above 99th percentile upper reference limit
+- ECG:
+    - ST segment elevation or depression, pathological Q waves
+- Creatine Kinase-MB (CK-MB):
+    - Elevated (>5 ng/mL)
+- Complete Blood Count (CBC):
+    - May show leukocytosis
+
+Pulmonary embolism:
+- D-Dimer:
+    - Elevated (>500 ng/mL)
+- Chest X-ray:
+    - Often normal or nonspecific (e.g. atelectasis)
+- CT Pulmonary Angiography:
+    - Filling defects in pulmonary arteries
+- Arterial Blood Gas (ABG):
+    - Hypoxemia (PaO2 <80 mmHg)
+    - Respiratory alkalosis (low PaCO2)
+
+Sepsis:
+- Complete Blood Count (CBC):
+    - Leukocytosis or leukopenia
+    - Left shift (immature neutrophils)
+- C-Reactive Protein (CRP):
+    - Elevated
+- Blood Culture:
+    - Positive for pathogens
+- Procalcitonin (PCT):
+    - Elevated (>0.5 ng/mL)
+- Lactate:
+    - Elevated (>2 mmol/L), indicates tissue hypoperfusion
+
+Chronic Kidney Disease:
+- Serum Creatinine:
+    - Elevated (e.g. >1.2 mg/dL in females, >1.4 mg/dL in males)
+- Blood Urea Nitrogen (BUN):
+    - Elevated (>20 mg/dL)
+- Glomerular Filtration Rate (GFR):
+    - Reduced (<60 mL/min/1.73 m²)
+- Urinalysis:
+    - Proteinuria, hematuria
+
+Liver Cirrhosis:
+- Liver Function Tests (LFT):
+    - Elevated AST and ALT (variable)
+    - Elevated alkaline phosphatase (ALP)
+- Albumin:
+    - Decreased (<3.5 g/dL)
+- Bilirubin:
+    - Elevated (>1.2 mg/dL)
+- Prothrombin Time (PT):
+    - Prolonged
+
+Diabetes Mellitus:
+- Fasting Blood Glucose:
+    - Elevated (>126 mg/dL)
+- HbA1c:
+    - Elevated (>6.5%)
+- Oral Glucose Tolerance Test (OGTT):
+    - 2-hour plasma glucose >200 mg/dL
+- Urine Microalbumin:
+    - Elevated (>30 mg/g creatinine)
+
+Thyroid Disorders:
+- TSH (Thyroid Stimulating Hormone):
+    - Hypothyroidism: Elevated
+    - Hyperthyroidism: Suppressed
+- Free T4:
+    - Hypothyroidism: Low
+    - Hyperthyroidism: Elevated
+- Free T3:
+    - Similar pattern as Free T4
+- Thyroid Antibodies:
+    - Positive in autoimmune thyroid disease
+
+Rheumatoid Arthritis:
+- Rheumatoid Factor (RF):
+    - Positive (>20 IU/mL)
+- Anti-CCP Antibodies:
+    - Positive
+- Erythrocyte Sedimentation Rate (ESR):
+    - Elevated
+- C-Reactive Protein (CRP):
+    - Elevated
+

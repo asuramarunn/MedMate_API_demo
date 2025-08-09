@@ -1,0 +1,149 @@
+Disease: Influenza (Flu)
+Symptoms: Fever, chills, sore throat, runny nose, cough, muscle aches
+
+Disease: Migraine
+Symptoms: Severe headache, nausea, vomiting, sensitivity to light, sensitivity to sound
+
+Disease: Diabetes Mellitus
+Symptoms: Excessive thirst, frequent urination, unexplained weight loss, fatigue, blurred vision
+
+Disease: Hypertension (High Blood Pressure)
+Symptoms: Often no symptoms, headache, dizziness, shortness of breath, nosebleeds
+
+Disease: Asthma
+Symptoms: Wheezing, shortness of breath, chest tightness, coughing, especially at night or early morning
+
+Disease: Peptic Ulcer
+Symptoms: Burning stomach pain, bloating, heartburn, nausea, intolerance to fatty foods
+
+Disease: Pneumonia
+Symptoms: Cough with phlegm, fever, chills, difficulty breathing, chest pain
+
+Disease: Gastritis
+Symptoms: Upper abdominal pain, nausea, vomiting, bloating, indigestion
+
+Disease: COVID-19
+Symptoms: Fever, cough, loss of taste or smell, shortness of breath, fatigue
+
+Disease: Chronic Kidney Disease
+Symptoms: Fatigue, swelling in legs and ankles, decreased urine output, nausea, confusion
+
+Disease: Tuberculosis
+Symptoms: Persistent cough, weight loss, night sweats, fever, coughing up blood
+
+Disease: Hepatitis B
+Symptoms: Fatigue, jaundice, abdominal pain, dark urine, loss of appetite
+
+Disease: Hepatitis C
+Symptoms: Fatigue, joint pain, jaundice, nausea, loss of appetite
+
+Disease: Dengue Fever
+Symptoms: High fever, severe headache, pain behind the eyes, joint and muscle pain, rash
+
+Disease: Malaria
+Symptoms: Fever, chills, sweating, headache, nausea
+
+Disease: Typhoid Fever
+Symptoms: Prolonged fever, abdominal pain, diarrhea or constipation, headache, rash
+
+Disease: Chickenpox
+Symptoms: Itchy rash, fever, fatigue, loss of appetite, headache
+
+Disease: Measles
+Symptoms: High fever, cough, runny nose, red eyes, skin rash
+
+Disease: Mumps
+Symptoms: Swollen salivary glands, fever, headache, muscle aches, loss of appetite
+
+Disease: Rubella
+Symptoms: Mild fever, rash, joint pain, swollen lymph nodes, red eyes
+
+Disease: Whooping Cough (Pertussis)
+Symptoms: Severe coughing fits, whooping sound when breathing in, vomiting after coughing, exhaustion
+
+Disease: Bronchitis
+Symptoms: Persistent cough, mucus production, fatigue, shortness of breath, slight fever
+
+Disease: Sinusitis
+Symptoms: Facial pain, nasal congestion, thick nasal discharge, headache, fever
+
+Disease: Otitis Media (Middle Ear Infection)
+Symptoms: Ear pain, difficulty hearing, fluid drainage from ear, fever, irritability
+
+Disease: Conjunctivitis (Pink Eye)
+Symptoms: Red eyes, itching, tearing, discharge from eyes, swelling
+
+Disease: Stroke
+Symptoms: Sudden numbness or weakness, confusion, trouble speaking, vision problems, loss of balance
+
+Disease: Heart Attack (Myocardial Infarction)
+Symptoms: Chest pain, shortness of breath, sweating, nausea, lightheadedness
+
+Disease: Heart Failure
+Symptoms: Shortness of breath, swelling in legs, fatigue, rapid heartbeat, persistent cough
+
+Disease: Arrhythmia
+Symptoms: Irregular heartbeat, palpitations, dizziness, fainting, shortness of breath
+
+Disease: Osteoarthritis
+Symptoms: Joint pain, stiffness, swelling, decreased range of motion, grinding sensation
+
+Disease: Rheumatoid Arthritis
+Symptoms: Joint pain, swelling, morning stiffness, fatigue, weight loss
+
+Disease: Osteoporosis
+Symptoms: Often no symptoms, bone fractures, loss of height, back pain
+
+Disease: Gout
+Symptoms: Sudden severe joint pain, swelling, redness, warmth, tenderness
+
+Disease: Psoriasis
+Symptoms: Red patches of skin, silvery scales, itching, dry skin, cracked skin
+
+Disease: Eczema (Atopic Dermatitis)
+Symptoms: Itchy skin, red patches, dryness, thickened skin, small bumps
+
+Disease: Lupus
+Symptoms: Fatigue, joint pain, skin rash, fever, photosensitivity
+
+Disease: Anemia
+Symptoms: Fatigue, weakness, pale skin, shortness of breath, dizziness
+
+Disease: Hyperthyroidism
+Symptoms: Weight loss, rapid heartbeat, irritability, heat intolerance, sweating
+
+Disease: Hypothyroidism
+Symptoms: Fatigue, weight gain, cold intolerance, dry skin, constipation
+
+Disease: Celiac Disease
+Symptoms: Diarrhea, bloating, weight loss, fatigue, anemia
+
+Disease: Irritable Bowel Syndrome (IBS)
+Symptoms: Abdominal pain, bloating, diarrhea, constipation, mucus in stool
+
+Disease: Crohn’s Disease
+Symptoms: Abdominal pain, diarrhea, weight loss, fatigue, fever
+
+Disease: Ulcerative Colitis
+Symptoms: Abdominal pain, diarrhea with blood, fatigue, weight loss, urgency to defecate
+
+Disease: Gallstones
+Symptoms: Abdominal pain after eating, nausea, vomiting, bloating, indigestion
+
+Disease: Pancreatitis
+Symptoms: Severe abdominal pain, nausea, vomiting, fever, rapid pulse
+
+Disease: Epilepsy
+Symptoms: Seizures, confusion, staring spells, loss of consciousness, uncontrolled movements
+
+Disease: Parkinson’s Disease
+Symptoms: Tremor, stiffness, slow movement, balance problems, difficulty speaking
+
+Disease: Alzheimer’s Disease
+Symptoms: Memory loss, confusion, difficulty completing tasks, mood changes, disorientation
+
+Disease: Depression
+Symptoms: Persistent sadness, loss of interest, changes in sleep, fatigue, feelings of worthlessness
+
+Disease: Anxiety Disorder
+Symptoms: Excessive worry, restlessness, muscle tension, difficulty concentrating, sleep problems
